@@ -1,0 +1,10 @@
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\bin\Debug\PictureBox3.exe.config
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\bin\Debug\PictureBox3.exe
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\bin\Debug\PictureBox3.pdb
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\obj\Debug\简单图片播放器.csprojAssemblyReference.cache
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\obj\Debug\PictureBox3.MainForm.resources
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\obj\Debug\PictureBox3.Properties.Resources.resources
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\obj\Debug\简单图片播放器.csproj.GenerateResource.cache
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\obj\Debug\简单图片播放器.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\obj\Debug\PictureBox3.exe
+C:\Users\singhwong\source\repos\杂项\PicturePlayer\obj\Debug\PictureBox3.pdb

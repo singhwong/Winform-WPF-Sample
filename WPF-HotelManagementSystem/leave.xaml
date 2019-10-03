@@ -1,0 +1,53 @@
+﻿<Window x:Class="WpfApp1.leave"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="退房登记" Height="200" Width="200" Background="#FFAA8585" MinWidth="200" MinHeight="200" MaxWidth="200" MaxHeight="200">
+    <Grid Margin="0,0,2,0" >
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FFF3C6C6"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="103*"/>
+            <ColumnDefinition Width="87*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="房间号" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,50,0,0" TextWrapping="Wrap" Text="交易码" VerticalAlignment="Top" RenderTransformOrigin="0.023,0.429"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,90,0,0" TextWrapping="Wrap" Text="房间状态" VerticalAlignment="Top"/>
+        <TextBox TabIndex="0" Name="tbLeaveNum" HorizontalAlignment="Left" Height="23" Margin="70,7,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110" RenderTransformOrigin="0.598,-0.021" Grid.ColumnSpan="2"/>
+        <TextBox TabIndex="1" Name="tbLeaveSign" HorizontalAlignment="Left" Height="23" Margin="70,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110" Grid.ColumnSpan="2"/>
+        <ComboBox TabIndex="2" Name="cbLeaveStatus" HorizontalAlignment="Left" Margin="70,87,0,0" VerticalAlignment="Top" Width="110" Grid.ColumnSpan="2">
+            <ListBoxItem Content="可入住"></ListBoxItem>
+            <ListBoxItem Content="已入住"></ListBoxItem>
+            <ListBoxItem Content="修缮中"></ListBoxItem>
+            <ListBoxItem Content="清扫中"></ListBoxItem>
+            <ListBoxItem Content="其他"></ListBoxItem>
+        </ComboBox>
+        <Button TabIndex="3" Name="btLeaveEnter" Content="确定" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="75" Click="btLeaveEnter_Click">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFF3F3F3" Offset="1"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.831"/>
+                    <GradientStop Color="#FF3483E2"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button TabIndex="4" Name="btLeaveCancle" Content="取消" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="75" Grid.Column="1" Click="btLiveCancle_Click">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFF3F3F3" Offset="1"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FFD3539E" Offset="0.141"/>
+                    <GradientStop Color="#FFCDCDCD"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

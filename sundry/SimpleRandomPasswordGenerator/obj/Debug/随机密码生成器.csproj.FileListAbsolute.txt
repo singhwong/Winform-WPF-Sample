@@ -1,0 +1,10 @@
+D:\wang\WindowsFormsApp1\随机密码生成器\bin\Debug\随机密码生成器.exe.config
+D:\wang\WindowsFormsApp1\随机密码生成器\bin\Debug\随机密码生成器.exe
+D:\wang\WindowsFormsApp1\随机密码生成器\bin\Debug\随机密码生成器.pdb
+D:\wang\WindowsFormsApp1\随机密码生成器\obj\Debug\随机密码生成器.csprojAssemblyReference.cache
+D:\wang\WindowsFormsApp1\随机密码生成器\obj\Debug\随机密码生成器.MainForm.resources
+D:\wang\WindowsFormsApp1\随机密码生成器\obj\Debug\随机密码生成器.Properties.Resources.resources
+D:\wang\WindowsFormsApp1\随机密码生成器\obj\Debug\随机密码生成器.csproj.GenerateResource.cache
+D:\wang\WindowsFormsApp1\随机密码生成器\obj\Debug\随机密码生成器.csproj.CoreCompileInputs.cache
+D:\wang\WindowsFormsApp1\随机密码生成器\obj\Debug\随机密码生成器.exe
+D:\wang\WindowsFormsApp1\随机密码生成器\obj\Debug\随机密码生成器.pdb

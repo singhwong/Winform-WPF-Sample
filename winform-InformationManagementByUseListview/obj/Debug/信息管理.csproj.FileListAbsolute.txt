@@ -1,0 +1,10 @@
+C:\Users\singhwong\source\repos\WinForm\信息管理\bin\Debug\信息管理.exe.config
+C:\Users\singhwong\source\repos\WinForm\信息管理\bin\Debug\信息管理.exe
+C:\Users\singhwong\source\repos\WinForm\信息管理\bin\Debug\信息管理.pdb
+C:\Users\singhwong\source\repos\WinForm\信息管理\obj\Debug\信息管理.csprojAssemblyReference.cache
+C:\Users\singhwong\source\repos\WinForm\信息管理\obj\Debug\信息管理.MainForm.resources
+C:\Users\singhwong\source\repos\WinForm\信息管理\obj\Debug\信息管理.Properties.Resources.resources
+C:\Users\singhwong\source\repos\WinForm\信息管理\obj\Debug\信息管理.csproj.GenerateResource.cache
+C:\Users\singhwong\source\repos\WinForm\信息管理\obj\Debug\信息管理.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\source\repos\WinForm\信息管理\obj\Debug\信息管理.exe
+C:\Users\singhwong\source\repos\WinForm\信息管理\obj\Debug\信息管理.pdb

@@ -1,0 +1,10 @@
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\bin\Debug\NewSimpleCalculator.exe.config
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\bin\Debug\NewSimpleCalculator.exe
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\bin\Debug\NewSimpleCalculator.pdb
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\obj\Debug\NewSimpleCalculator.csprojAssemblyReference.cache
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\obj\Debug\NewSimpleCalculator.MainForm.resources
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\obj\Debug\NewSimpleCalculator.Properties.Resources.resources
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\obj\Debug\NewSimpleCalculator.csproj.GenerateResource.cache
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\obj\Debug\NewSimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\obj\Debug\NewSimpleCalculator.exe
+C:\Users\singhwong\source\repos\WinForm\NewSimpleCalculator\obj\Debug\NewSimpleCalculator.pdb

@@ -1,0 +1,10 @@
+D:\wang\WindowsFormsApp1\inputMessages\bin\Debug\inputMessages.exe.config
+D:\wang\WindowsFormsApp1\inputMessages\bin\Debug\inputMessages.exe
+D:\wang\WindowsFormsApp1\inputMessages\bin\Debug\inputMessages.pdb
+D:\wang\WindowsFormsApp1\inputMessages\obj\Debug\inputMessages.csprojAssemblyReference.cache
+D:\wang\WindowsFormsApp1\inputMessages\obj\Debug\inputMessages.MainForm.resources
+D:\wang\WindowsFormsApp1\inputMessages\obj\Debug\inputMessages.Properties.Resources.resources
+D:\wang\WindowsFormsApp1\inputMessages\obj\Debug\inputMessages.csproj.GenerateResource.cache
+D:\wang\WindowsFormsApp1\inputMessages\obj\Debug\inputMessages.csproj.CoreCompileInputs.cache
+D:\wang\WindowsFormsApp1\inputMessages\obj\Debug\inputMessages.exe
+D:\wang\WindowsFormsApp1\inputMessages\obj\Debug\inputMessages.pdb

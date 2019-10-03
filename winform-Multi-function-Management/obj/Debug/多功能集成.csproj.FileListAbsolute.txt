@@ -1,0 +1,181 @@
+D:\wang\WindowsFormsApp1\多功能集成\bin\Debug\多功能集成.exe.config
+D:\wang\WindowsFormsApp1\多功能集成\bin\Debug\多功能集成.exe
+D:\wang\WindowsFormsApp1\多功能集成\bin\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.MainForm.resources
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.exe
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.timer.resources
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.Era.resources
+D:\wang\WindowsFormsApp1\多功能集成\obj\Debug\多功能集成.randomPassword.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\bin\Debug\多功能集成.exe.config
+C:\Users\singhwong\source\repos\WinForm\多功能集成\bin\Debug\多功能集成.exe
+C:\Users\singhwong\source\repos\WinForm\多功能集成\bin\Debug\多功能集成.pdb
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.csprojAssemblyReference.cache
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.alarmClork.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.calcuLator.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.Era.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.MainForm.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.Properties.Resources.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.randomPassword.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.timer.resources
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.csproj.GenerateResource.cache
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.exe
+C:\Users\singhwong\source\repos\WinForm\多功能集成\obj\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\bin\Debug\多功能集成.exe.config
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\bin\Debug\多功能集成.exe
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\bin\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.Era.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.MainForm.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.randomPassword.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.timer.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.exe
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.InformationInput.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\bin\Debug\多功能集成.exe.config
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\bin\Debug\多功能集成.exe
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\bin\Debug\多功能集成.pdb
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.csprojAssemblyReference.cache
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.alarmClork.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.calcuLator.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.Era.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.informationInput.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.MainForm.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.Properties.Resources.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.randomPassword.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.timer.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.csproj.GenerateResource.cache
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.exe
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management-master\obj\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\Multi-function-Management\bin\Debug\多功能集成.exe.config
+D:\wang\WindowsFormsApp1\Multi-function-Management\bin\Debug\多功能集成.exe
+D:\wang\WindowsFormsApp1\Multi-function-Management\bin\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.Era.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.informationInput.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.MainForm.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.randomPassword.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.timer.resources
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.exe
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.pdb
+D:\wang\WindowsFormsApp1\Multi-function-Management\obj\Debug\多功能集成.picturePlayer.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\bin\Debug\多功能集成.exe.config
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\bin\Debug\多功能集成.exe
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\bin\Debug\多功能集成.pdb
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.csprojAssemblyReference.cache
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.alarmClork.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.calcuLator.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.Era.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.informationInput.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.MainForm.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.picturePlayer.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.Properties.Resources.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.randomPassword.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.timer.resources
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.csproj.GenerateResource.cache
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.exe
+C:\Users\singhwong\source\repos\WinForm\Multi-function-Management\obj\Debug\多功能集成.pdb
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\bin\Debug\多功能集成.exe.config
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\bin\Debug\多功能集成.exe
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\bin\Debug\多功能集成.pdb
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.Era.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.informationInput.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.MainForm.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.picturePlayer.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.randomPassword.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.timer.resources
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.exe
+D:\wang\Multi-function-Management-master\Multi-function-Management-master\obj\Debug\多功能集成.pdb
+D:\wang\Multi-function-Management\bin\Debug\多功能集成.exe.config
+D:\wang\Multi-function-Management\bin\Debug\多功能集成.exe
+D:\wang\Multi-function-Management\bin\Debug\多功能集成.pdb
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.Era.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.informationInput.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.MainForm.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.picturePlayer.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.randomPassword.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.timer.resources
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.exe
+D:\wang\Multi-function-Management\obj\Debug\多功能集成.pdb
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\bin\Debug\多功能集成.exe.config
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\bin\Debug\多功能集成.exe
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\bin\Debug\多功能集成.pdb
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.Era.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.informationInput.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.MainForm.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.picturePlayer.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.randomPassword.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.timer.resources
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.exe
+D:\wang\Multi-function-Management-master (1)\Multi-function-Management-master\obj\Debug\多功能集成.pdb
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\bin\Debug\多功能集成.exe.config
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\bin\Debug\多功能集成.exe
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\bin\Debug\多功能集成.pdb
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.Era.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.informationInput.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.MainForm.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.picturePlayer.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.randomPassword.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.timer.resources
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.exe
+D:\wang\winform-Multi-function-Management-master\winform-Multi-function-Management-master\obj\Debug\多功能集成.pdb
+D:\wang\winform-Multi-function-Management\bin\Debug\多功能集成.exe.config
+D:\wang\winform-Multi-function-Management\bin\Debug\多功能集成.exe
+D:\wang\winform-Multi-function-Management\bin\Debug\多功能集成.pdb
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.csprojAssemblyReference.cache
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.alarmClork.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.calcuLator.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.Era.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.informationInput.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.MainForm.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.picturePlayer.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.Properties.Resources.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.randomPassword.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.timer.resources
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.csproj.GenerateResource.cache
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.csproj.CoreCompileInputs.cache
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.exe
+D:\wang\winform-Multi-function-Management\obj\Debug\多功能集成.pdb

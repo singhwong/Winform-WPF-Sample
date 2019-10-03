@@ -1,0 +1,10 @@
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\bin\Debug\PictureBox3.exe.config
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\bin\Debug\PictureBox3.exe
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\bin\Debug\PictureBox3.pdb
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\obj\Debug\PictureBox3.csprojAssemblyReference.cache
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\obj\Debug\PictureBox3.MainForm.resources
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\obj\Debug\PictureBox3.Properties.Resources.resources
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\obj\Debug\PictureBox3.csproj.GenerateResource.cache
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\obj\Debug\PictureBox3.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\obj\Debug\PictureBox3.exe
+C:\Users\john\source\repos\WindowsFormsApp1\PictureBox3\obj\Debug\PictureBox3.pdb

@@ -1,0 +1,10 @@
+D:\wang\WindowsFormsApp1\计时器2\bin\Debug\计时器2.exe.config
+D:\wang\WindowsFormsApp1\计时器2\bin\Debug\计时器2.exe
+D:\wang\WindowsFormsApp1\计时器2\bin\Debug\计时器2.pdb
+D:\wang\WindowsFormsApp1\计时器2\obj\Debug\计时器2.csprojAssemblyReference.cache
+D:\wang\WindowsFormsApp1\计时器2\obj\Debug\计时器2.MainForm.resources
+D:\wang\WindowsFormsApp1\计时器2\obj\Debug\计时器2.Properties.Resources.resources
+D:\wang\WindowsFormsApp1\计时器2\obj\Debug\计时器2.csproj.GenerateResource.cache
+D:\wang\WindowsFormsApp1\计时器2\obj\Debug\计时器2.csproj.CoreCompileInputs.cache
+D:\wang\WindowsFormsApp1\计时器2\obj\Debug\计时器2.exe
+D:\wang\WindowsFormsApp1\计时器2\obj\Debug\计时器2.pdb

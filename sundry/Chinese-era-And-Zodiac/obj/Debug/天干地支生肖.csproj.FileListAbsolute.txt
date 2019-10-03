@@ -1,0 +1,10 @@
+D:\wang\Chinese-era-And-Zodiac\bin\Debug\datetimePicker.exe.config
+D:\wang\Chinese-era-And-Zodiac\bin\Debug\datetimePicker.exe
+D:\wang\Chinese-era-And-Zodiac\bin\Debug\datetimePicker.pdb
+D:\wang\Chinese-era-And-Zodiac\obj\Debug\天干地支生肖.csprojAssemblyReference.cache
+D:\wang\Chinese-era-And-Zodiac\obj\Debug\datetimePicker.MainForm.resources
+D:\wang\Chinese-era-And-Zodiac\obj\Debug\datetimePicker.Properties.Resources.resources
+D:\wang\Chinese-era-And-Zodiac\obj\Debug\天干地支生肖.csproj.GenerateResource.cache
+D:\wang\Chinese-era-And-Zodiac\obj\Debug\天干地支生肖.csproj.CoreCompileInputs.cache
+D:\wang\Chinese-era-And-Zodiac\obj\Debug\datetimePicker.exe
+D:\wang\Chinese-era-And-Zodiac\obj\Debug\datetimePicker.pdb

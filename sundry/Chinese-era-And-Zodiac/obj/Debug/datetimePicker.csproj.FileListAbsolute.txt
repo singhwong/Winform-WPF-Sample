@@ -1,0 +1,10 @@
+D:\wang\WindowsFormsApp1\datetimePicker\bin\Debug\datetimePicker.exe.config
+D:\wang\WindowsFormsApp1\datetimePicker\bin\Debug\datetimePicker.exe
+D:\wang\WindowsFormsApp1\datetimePicker\bin\Debug\datetimePicker.pdb
+D:\wang\WindowsFormsApp1\datetimePicker\obj\Debug\datetimePicker.csprojAssemblyReference.cache
+D:\wang\WindowsFormsApp1\datetimePicker\obj\Debug\datetimePicker.MainForm.resources
+D:\wang\WindowsFormsApp1\datetimePicker\obj\Debug\datetimePicker.Properties.Resources.resources
+D:\wang\WindowsFormsApp1\datetimePicker\obj\Debug\datetimePicker.csproj.GenerateResource.cache
+D:\wang\WindowsFormsApp1\datetimePicker\obj\Debug\datetimePicker.csproj.CoreCompileInputs.cache
+D:\wang\WindowsFormsApp1\datetimePicker\obj\Debug\datetimePicker.exe
+D:\wang\WindowsFormsApp1\datetimePicker\obj\Debug\datetimePicker.pdb
